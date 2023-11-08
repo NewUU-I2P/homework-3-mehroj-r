@@ -25,5 +25,5 @@ void problemSolution1(float consumed_water) {
 
     cost += 13;
 
-    cout << cost << endl;
+    return cost;
 }
